@@ -20,7 +20,7 @@ content_blocks:
         content: Consume this media!
       - title: Talks
         icon: ti-layers
-        content: Silly Little Outfits and other interview series.
+        content: Silly Little Outfits and other interview series
       - title: Lit
         icon: ti-book
         content: Notes on poetry, fiction, and plays
